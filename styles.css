@@ -1,0 +1,31 @@
+body {
+  background-color: #33779a;
+  color: #2a1c29;
+  font-family: Gill Sans, Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  margin: 0;
+}
+h1, h2, h3 {
+  padding-left: 15px;
+}
+table, th, td {
+   border: 1px solid black;
+   margin-left: 2px;
+   padding: 2px 5px 2px 2px;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 36px;
+}
+
+h2 {
+  text-align: center;
+}
+
+img {
+  border: 6px solid black;
+  text-align: center;
+  margin-left: 15px;
+}
